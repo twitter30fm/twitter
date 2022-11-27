@@ -3,3 +3,5 @@
 # Use variables and Dynamics variables
 # It is for twitter account
 # please take note of this
+This is for Twitter application
+
